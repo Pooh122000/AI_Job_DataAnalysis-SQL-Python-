@@ -19,18 +19,30 @@ Pandas - Data manipulation and analysis
 Matplotlib/Seaborn - Data visualization
 NumPy - Numerical computations
 
-📁 Project Structure
-ai-jobs-analysis/
-├── data/
-│   ├── raw/
-│   │   └── ai_jobs_dataset.csv
-│   └── cleaned/
-│       └── ai_jobs_cleaned.csv
-├── scripts/
-│   ├── data_cleaning.py
-│   └── analysis.py
-├── sql/
-│   └── analysis_queries.sql
-├── dashboard/
-│   └── ai_jobs_dashboard.xlsx
-├── visualizations
+# AI Jobs Market Analysis
+
+## Project Overview
+Analysis of AI job market trends using Python, SQL, and Excel.
+
+## Key Findings
+- Senior AI roles pay 60% more than junior positions
+- 45% of AI jobs now offer remote work
+- Python is the most in-demand skill (mentioned in 78% of jobs)
+- San Francisco has highest average salaries ($145,000)
+
+## Files Included
+- `data_cleaning.py` - Python code for data preparation
+- `analysis_queries.sql` - SQL queries for insights
+- `ai_jobs_dashboard.xlsx` - Excel dashboard
+- `ai_jobs_cleaned.csv` - Cleaned dataset
+
+## How to Use
+1. Run Python cleaning script
+2. Execute SQL queries on cleaned data
+3. Open Excel dashboard for interactive exploration
+
+## Skills Demonstrated
+- Data cleaning and preprocessing
+- SQL analysis and reporting
+- Data visualization
+- Business insight generation
