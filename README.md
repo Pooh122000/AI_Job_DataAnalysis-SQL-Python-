@@ -33,7 +33,4 @@ ai-jobs-analysis/
 │   └── analysis_queries.sql
 ├── dashboard/
 │   └── ai_jobs_dashboard.xlsx
-├── visualizations/
-│   ├── salary_by_experience.png
-│   ├── remote_work_distribution.png
-│   └── top_skills_chart.png
+├── visualizations
